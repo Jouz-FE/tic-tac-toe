@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Jouz-FE.github.io/tic-tac-toe/static/css/main.374da615.chunk.css",
-    "main.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/main.ee252e89.chunk.js",
-    "main.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/main.ee252e89.chunk.js.map",
-    "runtime-main.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/runtime-main.12b61494.js",
-    "runtime-main.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/runtime-main.12b61494.js.map",
-    "static/js/2.be9f4df5.chunk.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js",
-    "static/js/2.be9f4df5.chunk.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js.map",
-    "index.html": "/Jouz-FE.github.io/tic-tac-toe/index.html",
-    "precache-manifest.88f6e2d2c4f933a00a995ac8b068347c.js": "/Jouz-FE.github.io/tic-tac-toe/precache-manifest.88f6e2d2c4f933a00a995ac8b068347c.js",
-    "service-worker.js": "/Jouz-FE.github.io/tic-tac-toe/service-worker.js",
-    "static/css/main.374da615.chunk.css.map": "/Jouz-FE.github.io/tic-tac-toe/static/css/main.374da615.chunk.css.map",
-    "static/js/2.be9f4df5.chunk.js.LICENSE.txt": "/Jouz-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Jouz-FE.github.io/tic-tac-toe/static/media/logo.5d5d9eef.svg"
+    "main.css": "/JOUZ-FE.github.io/tic-tac-toe/static/css/main.374da615.chunk.css",
+    "main.js": "/JOUZ-FE.github.io/tic-tac-toe/static/js/main.b15e0222.chunk.js",
+    "main.js.map": "/JOUZ-FE.github.io/tic-tac-toe/static/js/main.b15e0222.chunk.js.map",
+    "runtime-main.js": "/JOUZ-FE.github.io/tic-tac-toe/static/js/runtime-main.76edca70.js",
+    "runtime-main.js.map": "/JOUZ-FE.github.io/tic-tac-toe/static/js/runtime-main.76edca70.js.map",
+    "static/js/2.be9f4df5.chunk.js": "/JOUZ-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js",
+    "static/js/2.be9f4df5.chunk.js.map": "/JOUZ-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js.map",
+    "index.html": "/JOUZ-FE.github.io/tic-tac-toe/index.html",
+    "precache-manifest.65956cc6b6672e41aac948fda3843fa6.js": "/JOUZ-FE.github.io/tic-tac-toe/precache-manifest.65956cc6b6672e41aac948fda3843fa6.js",
+    "service-worker.js": "/JOUZ-FE.github.io/tic-tac-toe/service-worker.js",
+    "static/css/main.374da615.chunk.css.map": "/JOUZ-FE.github.io/tic-tac-toe/static/css/main.374da615.chunk.css.map",
+    "static/js/2.be9f4df5.chunk.js.LICENSE.txt": "/JOUZ-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/JOUZ-FE.github.io/tic-tac-toe/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12b61494.js",
+    "static/js/runtime-main.76edca70.js",
     "static/js/2.be9f4df5.chunk.js",
     "static/css/main.374da615.chunk.css",
-    "static/js/main.ee252e89.chunk.js"
+    "static/js/main.b15e0222.chunk.js"
   ]
 }
