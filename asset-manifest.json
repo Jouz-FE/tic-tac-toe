@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe/static/css/main.374da615.chunk.css",
-    "main.js": "/tic-tac-toe/static/js/main.b0232f94.chunk.js",
-    "main.js.map": "/tic-tac-toe/static/js/main.b0232f94.chunk.js.map",
-    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.432cf473.js",
-    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.432cf473.js.map",
-    "static/js/2.be9f4df5.chunk.js": "/tic-tac-toe/static/js/2.be9f4df5.chunk.js",
-    "static/js/2.be9f4df5.chunk.js.map": "/tic-tac-toe/static/js/2.be9f4df5.chunk.js.map",
-    "index.html": "/tic-tac-toe/index.html",
-    "precache-manifest.75f5f94b6a4859eeeccd44a92ddb7951.js": "/tic-tac-toe/precache-manifest.75f5f94b6a4859eeeccd44a92ddb7951.js",
-    "service-worker.js": "/tic-tac-toe/service-worker.js",
-    "static/css/main.374da615.chunk.css.map": "/tic-tac-toe/static/css/main.374da615.chunk.css.map",
-    "static/js/2.be9f4df5.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.be9f4df5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/tic-tac-toe/static/media/logo.5d5d9eef.svg"
+    "main.css": "/tictactoe/static/css/main.374da615.chunk.css",
+    "main.js": "/tictactoe/static/js/main.52227006.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.52227006.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.a8d7dc5b.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.a8d7dc5b.js.map",
+    "static/js/2.be9f4df5.chunk.js": "/tictactoe/static/js/2.be9f4df5.chunk.js",
+    "static/js/2.be9f4df5.chunk.js.map": "/tictactoe/static/js/2.be9f4df5.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.8e36a210d7a3e8d90694021a4c1dd0b7.js": "/tictactoe/precache-manifest.8e36a210d7a3e8d90694021a4c1dd0b7.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.374da615.chunk.css.map": "/tictactoe/static/css/main.374da615.chunk.css.map",
+    "static/js/2.be9f4df5.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.be9f4df5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tictactoe/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.432cf473.js",
+    "static/js/runtime-main.a8d7dc5b.js",
     "static/js/2.be9f4df5.chunk.js",
     "static/css/main.374da615.chunk.css",
-    "static/js/main.b0232f94.chunk.js"
+    "static/js/main.52227006.chunk.js"
   ]
 }
