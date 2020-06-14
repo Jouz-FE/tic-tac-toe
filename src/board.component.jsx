@@ -22,7 +22,6 @@ const Board = () => {
       squares: copySquare,
       whoIsPlayer: whoIsPlayer === "X" ? "Y" : "X",
     });
-    // return () => getWinner(copySquare);
   };
   const getWinner = (squares) => {
     const victoryCondition = [
@@ -35,19 +34,14 @@ const Board = () => {
       [0, 4, 8],
       [2, 4, 6],
     ];
-    console.log(victoryCondition.length);
     for (let i = 0; i < victoryCondition.length; i++) {
-      console.log(i);
       const [first, second, third] = victoryCondition[i];
-      console.log(first, second, third);
-      console.log(squares[first], squares[second], squares[third]);
       if (
         squares[first] &&
         squares[first] === squares[second] &&
         squares[second] === squares[third]
       ) {
         return squares[first];
-        break;
       }
     }
     return null;
@@ -68,10 +62,7 @@ const Board = () => {
       onHandleClick={(el) => handleClick(el)}
     />
   ));
-  //   const winner = getWinner(squares) === true;
-  //   const victory = winner === true && whoIsPlayer === "X" ? "Y" : "X";
   const winner = getWinner(squares);
-  console.log(winner);
   return (
     <>
       <div className="board">
