@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jouz-FE.github.io/tic-tac-toe/static/css/main.374da615.chunk.css",
-    "main.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/main.10074a89.chunk.js",
-    "main.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/main.10074a89.chunk.js.map",
+    "main.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/main.ee252e89.chunk.js",
+    "main.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/main.ee252e89.chunk.js.map",
     "runtime-main.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/runtime-main.12b61494.js",
     "runtime-main.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/runtime-main.12b61494.js.map",
     "static/js/2.be9f4df5.chunk.js": "/Jouz-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js",
     "static/js/2.be9f4df5.chunk.js.map": "/Jouz-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js.map",
     "index.html": "/Jouz-FE.github.io/tic-tac-toe/index.html",
-    "precache-manifest.491cae7f4109f520be7b185e93fddeee.js": "/Jouz-FE.github.io/tic-tac-toe/precache-manifest.491cae7f4109f520be7b185e93fddeee.js",
+    "precache-manifest.88f6e2d2c4f933a00a995ac8b068347c.js": "/Jouz-FE.github.io/tic-tac-toe/precache-manifest.88f6e2d2c4f933a00a995ac8b068347c.js",
     "service-worker.js": "/Jouz-FE.github.io/tic-tac-toe/service-worker.js",
     "static/css/main.374da615.chunk.css.map": "/Jouz-FE.github.io/tic-tac-toe/static/css/main.374da615.chunk.css.map",
     "static/js/2.be9f4df5.chunk.js.LICENSE.txt": "/Jouz-FE.github.io/tic-tac-toe/static/js/2.be9f4df5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.12b61494.js",
     "static/js/2.be9f4df5.chunk.js",
     "static/css/main.374da615.chunk.css",
-    "static/js/main.10074a89.chunk.js"
+    "static/js/main.ee252e89.chunk.js"
   ]
 }
